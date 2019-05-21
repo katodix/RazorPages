@@ -1,0 +1,14 @@
+/Users/darkvejder/Projects/WebApps/Empty/bin/Debug/netcoreapp2.2/Empty.deps.json
+/Users/darkvejder/Projects/WebApps/Empty/bin/Debug/netcoreapp2.2/Empty.runtimeconfig.json
+/Users/darkvejder/Projects/WebApps/Empty/bin/Debug/netcoreapp2.2/Empty.runtimeconfig.dev.json
+/Users/darkvejder/Projects/WebApps/Empty/bin/Debug/netcoreapp2.2/Empty.dll
+/Users/darkvejder/Projects/WebApps/Empty/bin/Debug/netcoreapp2.2/Empty.pdb
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.csprojAssemblyReference.cache
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.csproj.CoreCompileInputs.cache
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.RazorAssemblyInfo.cache
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.RazorAssemblyInfo.cs
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.AssemblyInfoInputs.cache
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.AssemblyInfo.cs
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.RazorTargetAssemblyInfo.cache
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.dll
+/Users/darkvejder/Projects/WebApps/Empty/obj/Debug/netcoreapp2.2/Empty.pdb

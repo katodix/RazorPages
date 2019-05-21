@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{B37CE9F9-067E-4A65-9D5D-6827D3397D95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp.MVC/Views/Home/Somatotype/Index.cshtml">
+    <Files>
+      <File FileName="WebApp.RazorPages/Pages/Index.cshtml" Line="34" Column="7" />
+      <File FileName="WebApp.MVC/Views/Home/Index.cshtml" Line="11" Column="7" />
+      <File FileName="WebApp.MVC/Views/Home/Somatotype/Index.cshtml" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApps" expanded="True">
+            <Node name="WebApp.MVC" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Somatotype" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="WebApp.RazorPages" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Somatotype" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApp.RazorPages PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Empty PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WebApp.WebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/darkvejder/Projects/WebApps/WebApp.RazorPages/Pages/Somatotype/Index.cshtml.cs" relfile="WebApp.RazorPages/Pages/Somatotype/Index.cshtml.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApp.MVC PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
