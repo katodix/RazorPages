@@ -30,3 +30,4 @@
 /Users/darko/Projects/RazorPages/Bakery/Bakery/Bakery/obj/Debug/netcoreapp2.1/Bakery.dll
 /Users/darko/Projects/RazorPages/Bakery/Bakery/Bakery/obj/Debug/netcoreapp2.1/Bakery.pdb
 /Users/darko/Projects/RazorPages/Bakery/Bakery/Bakery/obj/Debug/netcoreapp2.1/Bakery.csproj.CopyComplete
+/Users/darko/Projects/RazorPages/Bakery/Bakery/Bakery/obj/Debug/netcoreapp2.1/Razor/Pages/Miscellaneous.g.cshtml.cs
